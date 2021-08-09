@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 
 <!--
 **Celusgo/Celusgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Hello there](https://c.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
