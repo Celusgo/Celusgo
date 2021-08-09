@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ![Hello there](https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif)
+
+ <img align="right" alt="GIF" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" width="500" height="320" />
