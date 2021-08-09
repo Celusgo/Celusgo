@@ -9,6 +9,12 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love playing electric guitar. That does not mean I'm good at it 😊
 
+
+
+
+
+
+
 ### Languages and Tools:
 
 [https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]
