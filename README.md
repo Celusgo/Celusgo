@@ -4,7 +4,7 @@
 
 
 ### I'm a Full-Stack Developer in development 👽
-- 🌱 I’m currently a Full Stack Bootcamper @DrivenEducation
+- 🌱 I’m currently a Full-Stack Bootcamper @DrivenEducation
 - 💬 Feel free to contact me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love playing electric guitar. That does not mean I'm good at it 😊
